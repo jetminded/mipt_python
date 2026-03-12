@@ -24,6 +24,7 @@
 
 ### Установка зависимостей
 ```bash
+curl -LsSf https://astral.sh/uv/install.sh | sh  # Установите uv, если нету
 uv sync
 ```
 
