@@ -32,7 +32,7 @@ uv sync
 #### Основное приложение
 ```bash
 # Простое приложение
-uv run streamlit run simple_web_app.py
+uv run streamlit run simple_app/simple_web_app.py
 
 # Основное приложение
 uv run streamlit run web_app.py
