@@ -11,8 +11,14 @@
 | Основа - 2  | ООП, классы | [Ссылка](https://github.com/jetminded/mipt_python/blob/main/hw-base/hw02_classes.ipynb) | 15.03.2026 |
 | Phys&Math - 2  | Numpy, Pandas, Matplotlib, Plotly | [Ссылка](https://github.com/jetminded/mipt_python/blob/main/hw-physmath/hw02_physmath_numpy.ipynb) | 15.03.2026 |
 | Продва - 3  | Декораторы, дескрипторы, метаклассы | [Ссылка](https://github.com/jetminded/mipt_python/blob/main/hw-adv/hw03_decorators_metaclasses.ipynb) | 22.03.2026 |
-| Основа - 3  | TBA | TBA | 29.03.2026 |
-| Phys&Math - 3  | TBA | TBA | TBA |
-| Продва - 3  | TBA | TBA | TBA |
-| Основа - 3  | TBA | TBA | TBA |
-| Phys&Math - 3  | TBA | TBA | TBA |
+| Основа - 3  | Итераторы, декораторы | [Ссылка](https://github.com/jetminded/mipt_python/blob/main/hw-base/hw03_iterators_decorators.ipynb) | 29.03.2026 |
+| Phys&Math - 3  | TBA | TBA | 29.03.2026 |
+| Продва - 4  | TBA | TBA | TBA |
+| Основа - 4  | TBA | TBA | TBA |
+| Phys&Math - 4  | TBA | TBA | TBA |
+| Продва - 5  | TBA | TBA | TBA |
+| Основа - 5  | TBA | TBA | TBA |
+| Phys&Math - 5  | TBA | TBA | TBA |
+| Продва - 6  | TBA | TBA | TBA |
+| Основа - 6  | TBA | TBA | TBA |
+| Phys&Math - 6  | TBA | TBA | TBA |
