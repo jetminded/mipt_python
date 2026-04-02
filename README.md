@@ -12,10 +12,10 @@
 | Phys&Math - 2  | Numpy, Pandas, Matplotlib, Plotly | [Ссылка](https://github.com/jetminded/mipt_python/blob/main/hw-physmath/hw02_physmath_numpy.ipynb) | 15.03.2026 |
 | Продва - 3  | Декораторы, дескрипторы, метаклассы | [Ссылка](https://github.com/jetminded/mipt_python/blob/main/hw-adv/hw03_decorators_metaclasses.ipynb) | 22.03.2026 |
 | Основа - 3  | Итераторы, декораторы | [Ссылка](https://github.com/jetminded/mipt_python/blob/main/hw-base/hw03_iterators_decorators.ipynb) | 29.03.2026 |
-| Phys&Math - 3  | TBA | TBA | 29.03.2026 |
-| Продва - 4  | TBA | TBA | TBA |
-| Основа - 4  | TBA | TBA | TBA |
-| Phys&Math - 4  | TBA | TBA | TBA |
+| Phys&Math - 3  | Sympy. Numpy.linalg. | [Ссылка](https://github.com/jetminded/mipt_python/blob/main/hw-physmath/hw03_linalg.ipynb) | 12.04.2026 |
+| Продва - 4  | Numpy. Pandas. Визуализация. | [Ссылка](https://github.com/jetminded/mipt_python/blob/main/hw-adv/hw04_numpy_pandas_plots.ipynb)| 12.04.2026 |
+| Основа - 4  | Numpy. Pandas. Визуализация. | [Ссылка](https://github.com/jetminded/mipt_python/tree/main/hw-base/hw04_numpy_pandas_plots) | 12.04.2026 |
+| Phys&Math - 4  | ООП. Классы. Гауссовские процессы. | [Ссылка](https://github.com/jetminded/mipt_python/blob/main/hw-physmath/hw04_classes_gpr.ipynb) | 19.04.2026 |
 | Продва - 5  | TBA | TBA | TBA |
 | Основа - 5  | TBA | TBA | TBA |
 | Phys&Math - 5  | TBA | TBA | TBA |
