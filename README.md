@@ -5,7 +5,7 @@
 
 | \# | Homework Topic | Link | DEADLINE |
 |-----------------|-----------------|-----------------|-----------------|
-| 1  | TBA  | TBA  | TBA  |
+| 1  | Base Syntax: containers, cycles, if/else  | [Link](https://github.com/jetminded/mipt_python/blob/py-aut26-foreign/homework/1_hw_base_syntax.ipynb)  | 20.09 23:59 Moscow Time  |
 | 2  | TBA  | TBA  | TBA  |
 | 3  | TBA  | TBA  | TBA  |
 | 4  | TBA  | TBA  | TBA  |
