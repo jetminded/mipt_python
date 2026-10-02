@@ -6,8 +6,8 @@
 | \# | Homework Topic | Link | DEADLINE |
 |-----------------|-----------------|-----------------|-----------------|
 | 1  | Base Syntax: containers, cycles, if/else  | [Link](https://github.com/jetminded/mipt_python/blob/py-aut26-foreign/homework/1_hw_base_syntax.ipynb)  | 20.09 23:59 Moscow Time  |
-| 2  | TBA  | TBA  | TBA  |
-| 3  | TBA  | TBA  | TBA  |
+| 2  | Functions  | [Link](https://github.com/jetminded/mipt_python/blob/py-aut26-foreign/homework/2_3_hw_functions_decorators.ipynb)  | 11.10 23:59 Moscow Time  |
+| 3  | Decorators  | [Link](https://github.com/jetminded/mipt_python/blob/py-aut26-foreign/homework/2_3_hw_functions_decorators.ipynb)  | 11.10 23:59 Moscow Time  |
 | 4  | TBA  | TBA  | TBA  |
 | 5  | TBA  | TBA  | TBA  |
 | 6  | TBA  | TBA  | TBA  |
