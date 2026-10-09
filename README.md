@@ -16,21 +16,21 @@
 
 ## Course plan
 
-| Week | Seminar Topic | Lecture Topic |
+| Week | Seminar Topic | Seminar Link | Lecture Topic | Lecture Topic |
 |-----------------|-----------------|-----------------|
-| 1  | Base syntax, python types  | Interpreter vs Compiler. PyObject.  |
-| 2  | Practice in base syntax  | Functions in Python  |
-| 3  | Practice in functions  | Closure in Python  |
-| 4  | Practice in closures  | Decorators in Python  |
-| 5  | Practice in decorators  | Exceptions in Python  |
-| 6  | Practice in exceptions  | Classes in Python  |
-| 7  | Practice in objects and classes  | Inheritance in Python  |
-| 8  | Practice in inheritance  | <span style="color:red"> COLLOQUIUM \#1 </span> |
-| 9  | Practice in objects and classes - 2  | Abstract classes  |
-| 10  | Practice in abstract classes  | Dunder methods in Python  |
-| 11  | Practice in dunder methods  | Generators and iterators  |
-| 12  | Practice in generators and iterators  | Context managers. Working with files. Dataclass  |
-| 13  | Practice in context managers  | Typing. Venv.  |
-| 14  | Practice in typing  | Venv. Numpy. Pandas.  |
-| 15  | Practice in numpy. pandas.  | Pandas. Matplotlib. Plots in python.  |
-| 16  | Requests. BS4  | <span style="color:red"> COLLOQUIUM \#2 </span>  |
+| 1  | Base syntax, python types  | TBA | Interpreter vs Compiler. PyObject.  | TBA | 
+| 2  | Practice in base syntax  |  TBA | Functions in Python  | TBA | 
+| 3  | Practice in functions  |  TBA | Closure in Python  | TBA | 
+| 4  | Practice in closures  |  TBA | Decorators in Python  | TBA | 
+| 5  | Practice in decorators  |  TBA | Exceptions in Python  | TBA | 
+| 6  | Practice in exceptions  |  TBA | Classes in Python  | TBA | 
+| 7  | Practice in objects and classes  |  TBA | Inheritance in Python  | TBA | 
+| 8  | Practice in inheritance  |  TBA | <span style="color:red"> COLLOQUIUM \#1 </span> | TBA | 
+| 9  | Practice in objects and classes - 2  |  TBA | Abstract classes  | TBA | 
+| 10  | Practice in abstract classes  |  TBA | Dunder methods in Python  | TBA | 
+| 11  | Practice in dunder methods  |  TBA | Generators and iterators  | TBA | 
+| 12  | Practice in generators and iterators  |  TBA | Context managers. Working with files. Dataclass  | TBA | 
+| 13  | Practice in context managers  |  TBA | Typing. Venv.  | TBA | 
+| 14  | Practice in typing  |  TBA | Venv. Numpy. Pandas.  | TBA | 
+| 15  | Practice in numpy. pandas.  |  TBA | Pandas. Matplotlib. Plots in python.  | TBA | 
+| 16  | Requests. BS4  |  TBA | <span style="color:red"> COLLOQUIUM \#2 </span>  | TBA | 
