@@ -9,7 +9,7 @@
 | 2  | Functions  | [Link](https://github.com/jetminded/mipt_python/blob/py-aut26-foreign/homework/2_3_hw_functions_decorators.ipynb)  | 11.10 23:59 Moscow Time  |
 | 3  | Decorators  | [Link](https://github.com/jetminded/mipt_python/blob/py-aut26-foreign/homework/2_3_hw_functions_decorators.ipynb)  | 11.10 23:59 Moscow Time  |
 | 4  | Basic OOP  | [Link](https://github.com/jetminded/mipt_python/blob/py-aut26-foreign/homework/4_baseline_OOP.ipynb)  | 22.10 23:59 Moscow Time  |
-| 5  | TBA  | TBA  | TBA  |
+| 5  | Advanced OOP: inheritance, abstract classes  | [Link](https://github.com/jetminded/mipt_python/blob/py-aut26-foreign/homework/5_OOP_columns_tables.ipynb)  | 08.11 23:59 Moscow Time  |
 | 6  | TBA  | TBA  | TBA  |
 | 7  | TBA  | TBA  | TBA  |
 | 8  | TBA  | TBA  | TBA  |
